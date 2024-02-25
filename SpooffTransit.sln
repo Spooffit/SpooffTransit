@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C024CB9B-F8C2-4F4B-8669-260835DF35AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpooffTransit.Publisher", "src\SpooffTransit.Publisher\SpooffTransit.Publisher.csproj", "{91A4ECFA-6DDA-40D1-ACFF-9FF944688C4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91A4ECFA-6DDA-40D1-ACFF-9FF944688C4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91A4ECFA-6DDA-40D1-ACFF-9FF944688C4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91A4ECFA-6DDA-40D1-ACFF-9FF944688C4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91A4ECFA-6DDA-40D1-ACFF-9FF944688C4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{91A4ECFA-6DDA-40D1-ACFF-9FF944688C4D} = {C024CB9B-F8C2-4F4B-8669-260835DF35AB}
+	EndGlobalSection
+EndGlobal
